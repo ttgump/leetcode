@@ -1,4 +1,4 @@
 leetcode
 ========
 
-Store answers of leetcode problems
+This is the place to store my answers of leetcode problems
